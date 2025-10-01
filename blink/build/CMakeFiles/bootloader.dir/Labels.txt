@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Studium/Code/Master/Semester1/embedded-programming/blink/build/CMakeFiles/bootloader
+C:/Studium/Code/Master/Semester1/embedded-programming/blink/build/CMakeFiles/bootloader.rule
+C:/Studium/Code/Master/Semester1/embedded-programming/blink/build/CMakeFiles/bootloader-complete.rule
+C:/Studium/Code/Master/Semester1/embedded-programming/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Studium/Code/Master/Semester1/embedded-programming/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Studium/Code/Master/Semester1/embedded-programming/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Studium/Code/Master/Semester1/embedded-programming/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Studium/Code/Master/Semester1/embedded-programming/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Studium/Code/Master/Semester1/embedded-programming/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Studium/Code/Master/Semester1/embedded-programming/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
