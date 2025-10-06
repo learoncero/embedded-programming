@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "blink",
-    "project_version":    "1",
+    "project_version":    "4a165ae-dirty",
     "project_path":       "C:/Studium/Code/Master/Semester1/embedded-programming/blink",
     "idf_path":           "C:/Users/learo/esp/v5.5.1/esp-idf",
     "build_dir":          "C:/Studium/Code/Master/Semester1/embedded-programming/blink/build",
